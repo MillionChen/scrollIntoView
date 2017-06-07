@@ -1,0 +1,2 @@
+# scrollIntoView
+相对锚点一样使用的原生js方法scrollIntoView
